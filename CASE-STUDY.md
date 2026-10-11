@@ -4,7 +4,7 @@
 - **Platform / Stack:** Vanilla HTML5, CSS3 (Custom Properties & CSS Art), Vanilla ES6+
 - **Deliverables:** 1-Page Responsive Business Landing Page, English–Indonesian Bilingual Localization Toggle, Pure CSS Hero Artwork
 - **Turnaround:** Concept Sprint / Portfolio Reference Project
-- **Live Samples:** [English Landing Page](business.html) · [Bilingual Localization Demo](bilingual.html)
+- **Live Samples:** [English Landing Page](index.html) · [Bilingual Localization Demo](bilingual.html)
 
 ---
 
